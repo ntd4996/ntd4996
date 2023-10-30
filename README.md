@@ -3,21 +3,27 @@
 </p>
 
 <p  align="center">
+  <a href="https://app.daily.dev/coderdeer"><img src="https://api.daily.dev/devcards/f33393d775d24dd98b5970edbe792581.png?r=7hm" width="200" alt="Nguyễn Thành Đạt's Dev Card"/></a>
+</p>
+
+<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp;Contribution Statistics
 
 <br/>
-<p align="left">
-  <a href="https://ntd4996.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ntd4996&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ntd4996&theme=blueberry&hide_border=true" />
-  </a>
+
+<p>
+  <p align="left">
+    <a href="https://ntd4996.dev/">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ntd4996&show_icons=true&theme=blueberry&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ntd4996&theme=blueberry&hide_border=true" />
+    </a>
+  </p>
 </p>
 <br>
-
-[![Datnt' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ntd4996&custom_title=Datnt's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://datnt.dev)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
