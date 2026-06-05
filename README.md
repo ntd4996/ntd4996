@@ -132,8 +132,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ntd4996&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=E2E8F0"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntd4996&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=E2E8F0"/>
+  <img height="180" src="https://gh-readme-stats.vercel.app/api?username=ntd4996&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=E2E8F0"/>
+  <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ntd4996&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=E2E8F0"/>
 </div>
 
 <br/>
@@ -184,6 +184,17 @@
 <div align="center">
   <a href="https://www.datnt.dev/">
     <img src="https://img.shields.io/badge/%E2%86%92%20View%20Full%20Portfolio-datnt.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0D1117"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://ko-fi.com/ntd4996">
+    <img src="https://img.shields.io/badge/Ko--fi-FF6B9D?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/ntd4996">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00D9FF?style=for-the-badge&logo=buymeacoffee&logoColor=0D1117"/>
   </a>
 </div>
 
