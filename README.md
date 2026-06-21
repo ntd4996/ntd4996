@@ -136,13 +136,6 @@
   <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ntd4996&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=E2E8F0"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=ntd4996&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&sideLabels=E2E8F0&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ntd4996&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=ffffff&area_color=00D9FF&area=true&hide_border=true"/>
