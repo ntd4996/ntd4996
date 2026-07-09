@@ -143,6 +143,12 @@
 
 <br/>
 
+<div align="center">
+  <img width="95%" src="./profile-3d-contrib/profile-night-view.svg"/>
+</div>
+
+<br/>
+
 ---
 
 ## 🎓 Certifications
