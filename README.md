@@ -90,7 +90,7 @@
   <tr>
     <td width="160" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/2020 – Present-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF"/>
+      <img src="https://img.shields.io/badge/2020 -- Present-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF"/>
       <br/><br/>
       <sub>🏢 Demetio</sub><br/>
       <sub>📍 Hanoi, Vietnam</sub>
@@ -99,9 +99,9 @@
       <br/>
       <strong>Senior Fullstack Developer & Shopify Expert</strong>
       <br/><br/>
-      &nbsp;&nbsp;▸ Built <strong>20+ Shopify Plus</strong> stores for Japanese clients — Liquid, checkout extensions, metafield-driven UX<br/>
+      &nbsp;&nbsp;▸ Built <strong>20+ Shopify Plus</strong> stores for Japanese clients: Liquid, checkout extensions, metafield-driven UX<br/>
       &nbsp;&nbsp;▸ Architected <strong>Headless Shopify</strong> storefronts with Hydrogen + Remix for performance-critical projects<br/>
-      &nbsp;&nbsp;▸ Integrated <strong>Claude & OpenAI APIs</strong> into e-commerce flows — saving 10+ hrs/week per client<br/>
+      &nbsp;&nbsp;▸ Integrated <strong>Claude & OpenAI APIs</strong> into e-commerce flows, saving 10+ hrs/week per client<br/>
       &nbsp;&nbsp;▸ Full-stack delivery: <strong>React, Next.js, Node.js, PostgreSQL</strong>, GitHub Actions CI/CD
     </td>
   </tr>
@@ -109,7 +109,7 @@
   <tr>
     <td width="160" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/2018 – 2020-FF6B9D?style=flat-square&labelColor=0D1117&color=FF6B9D"/>
+      <img src="https://img.shields.io/badge/2018 -- 2020-FF6B9D?style=flat-square&labelColor=0D1117&color=FF6B9D"/>
       <br/><br/>
       <sub>🏢 NAL Vietnam</sub><br/>
       <sub>📍 Hanoi, Vietnam</sub>
@@ -120,7 +120,7 @@
       <br/><br/>
       &nbsp;&nbsp;▸ Developed web & mobile applications for <strong>Japanese enterprise clients</strong><br/>
       &nbsp;&nbsp;▸ Stack: <strong>React, Vue.js, React Native</strong>, REST APIs, push notifications<br/>
-      &nbsp;&nbsp;▸ Participated in full SDLC — requirements, development, QA, UAT, delivery
+      &nbsp;&nbsp;▸ Participated in full SDLC: requirements, development, QA, UAT, delivery
     </td>
   </tr>
 </table>
