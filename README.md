@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B9D&height=220&section=header&text=Nguyen%20Thanh%20Dat&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20Web%20%C2%B7%20Mobile%20%C2%B7%20Shopify%20%C2%B7%20AI&descAlignY=58&descSize=17&descColor=E2E8F0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B9D&height=220&section=header&text=Nguyen%20Thanh%20Dat&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20Shopify%20%C2%B7%20AI&descAlignY=58&descSize=17&descColor=E2E8F0"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=6%2B+years+%E2%80%94+Web+%C2%B7+Mobile+%C2%B7+Game+%C2%B7+AI+%F0%9F%9A%80;React+%2F+Next.js+%2F+Node.js+%2F+TypeScript;Shopify+Plus+%26+Headless+Commerce+Expert;AI-assisted+workflows+%E2%80%94+Claude+%26+OpenAI;50%2B+projects+%C2%B7+30%2B+clients+%C2%B7+10%2B+apps+%26+games" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=6%2B+years+of+Web+%C2%B7+Mobile+%C2%B7+Game+%C2%B7+AI+%F0%9F%9A%80;React+%2F+Next.js+%2F+Node.js+%2F+TypeScript;Shopify+Plus+%26+Headless+Commerce+Expert;AI-assisted+workflows+with+Claude+%26+OpenAI;50%2B+projects+%C2%B7+30%2B+clients+%C2%B7+10%2B+apps+%26+games" />
 </div>
 
 <br/>
