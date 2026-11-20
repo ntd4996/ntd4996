@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-night-v2.webp" alt="Nguyen Thanh Dat, full-stack engineer making apps and games after dark" width="100%"/>
+  <img src="./assets/banner-night-v3.webp" alt="Nguyen Thanh Dat, full-stack engineer making apps and games after dark" width="100%"/>
 </div>
 
 <br/>
