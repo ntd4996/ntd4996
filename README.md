@@ -1,25 +1,37 @@
 <div align="center">
-  <img src="./assets/banner.webp" alt="Nguyen Thanh Dat, full-stack engineer making apps and games after dark" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://www.datnt.dev/"><img src="https://img.shields.io/badge/datnt.dev-13284d?style=for-the-badge&logo=vercel&logoColor=7ee8fa"/></a>
-  <a href="mailto:hi@datnt.dev"><img src="https://img.shields.io/badge/hi@datnt.dev-13284d?style=for-the-badge&logo=gmail&logoColor=ff9ec4"/></a>
-  <a href="https://www.linkedin.com/in/ntd4996"><img src="https://img.shields.io/badge/LinkedIn-13284d?style=for-the-badge&logo=linkedin&logoColor=7ee8fa"/></a>
-  <a href="https://thenightwatcher.online/games/"><img src="https://img.shields.io/badge/TNW%20Arcade-13284d?style=for-the-badge&logo=itchdotio&logoColor=ff9ec4"/></a>
-  <img src="https://img.shields.io/badge/%E2%9C%93%20Open%20to%20Work-13284d?style=for-the-badge"/>
+  <img src="./assets/banner-night.webp" alt="Nguyen Thanh Dat, full-stack engineer making apps and games after dark" width="100%"/>
 </div>
 
 <br/>
 
-<img src="./assets/readme/h-about.webp" alt="About me" width="100%"/>
+<div align="center">
+  <a href="https://www.datnt.dev/">
+    <img src="https://img.shields.io/badge/datnt.dev-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hi@datnt.dev">
+    <img src="https://img.shields.io/badge/hi@datnt.dev-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%9C%93%20Open%20to%20Work-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ntd4996&style=for-the-badge&color=FF6B9D&label=Views"/>
+</div>
 
-**Senior Full-Stack Engineer** in Hanoi, Vietnam. 6+ years building web products end to end with Node.js, NestJS,
-React and Next.js, including Shopify Plus and headless commerce for Japanese clients, and Technical Lead for teams of
-4-8 engineers.
+<br/>
 
-After hours I ship my own things: native macOS apps in Swift, an open-source desktop pet for AI coding agents, an npm
-package with real downloads, and a growing arcade of browser games.
+---
+
+## About
+
+**Senior Full-Stack Engineer** based in Hanoi, Vietnam. 6+ years building web products end to end with Node.js,
+NestJS, React and Next.js, including Shopify Plus and headless commerce for Japanese clients. Technical Lead for
+teams of 4-8 engineers.
+
+Outside client work I ship my own products: native macOS apps in Swift, an open-source desktop pet for AI coding
+agents, an npm package, and a growing arcade of browser games.
+
+<br/>
 
 <div align="center">
 
@@ -31,22 +43,23 @@ package with real downloads, and a growing arcade of browser games.
 
 <br/>
 
-<img src="./assets/readme/h-work.webp" alt="Featured work" width="100%"/>
+---
 
-<p align="center">
-  <a href="https://github.com/ntd4996/agentpet"><img src="./assets/readme/c-agentpet.webp" alt="AgentPet" width="49%"/></a>
-  <a href="https://thenightwatcher.online/games/"><img src="./assets/readme/c-arcade.webp" alt="TNW Arcade" width="49%"/></a>
-  <a href="https://github.com/ntd4996/Porthole"><img src="./assets/readme/c-porthole.webp" alt="Porthole" width="49%"/></a>
-  <a href="https://plugtalk.thenightwatcher.online"><img src="./assets/readme/c-plugtalk.webp" alt="PlugTalk" width="49%"/></a>
-</p>
+## Featured Work
 
-<p align="center">
-  Also on npm: <a href="https://github.com/ntd4996/resize-iframe"><b>embed-react</b></a>, a React iframe that resizes to its content, with social embeds and a hardened Next.js proxy.
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| [**AgentPet**](https://github.com/ntd4996/agentpet) | A desktop pet that shows what your AI coding agents (Claude Code, Codex, Cursor, Gemini...) are doing and levels up on the tokens they use. macOS, Windows and Linux, with a community gallery and leaderboard. | Swift · SwiftUI · Tauri · Rust · Astro |
+| [**TNW Arcade**](https://thenightwatcher.online/games/) | 32 free browser games I designed and built: idle, tower defense, action and tycoon, in pixel art and 3D. | TypeScript · Three.js · PixiJS · Cloudflare |
+| [**Porthole**](https://github.com/ntd4996/Porthole) | macOS menu bar app that lists running dev ports, the project behind each one, and the tunnels pointing at them. | Swift · SwiftUI · Homebrew |
+| [**PlugTalk**](https://plugtalk.thenightwatcher.online) | Native macOS app for USB devices and external displays. Notarized, auto-updating, with payments live. | Swift · SwiftUI · IOKit |
+| [**embed-react**](https://github.com/ntd4996/resize-iframe) | React iframe that resizes to its content, with social embeds and a hardened Next.js proxy. Published on npm. | React · TypeScript · Next.js |
 
 <br/>
 
-<img src="./assets/readme/h-stack.webp" alt="Tech stack" width="100%"/>
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -68,19 +81,26 @@ package with real downloads, and a growing arcade of browser games.
 
 **Shopify & AI**
 
-![Shopify Plus](https://img.shields.io/badge/Shopify_Plus-13284d?style=for-the-badge&logo=shopify&logoColor=96BF48) ![Hydrogen](https://img.shields.io/badge/Hydrogen-13284d?style=for-the-badge&logo=shopify&logoColor=7ee8fa) ![Liquid](https://img.shields.io/badge/Liquid-13284d?style=for-the-badge&logo=shopify&logoColor=7AB55C) ![Claude API](https://img.shields.io/badge/Claude_API-13284d?style=for-the-badge&logo=anthropic&logoColor=ff9ec4) ![OpenAI](https://img.shields.io/badge/OpenAI-13284d?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-13284d?style=for-the-badge&logoColor=7ee8fa)
+![Shopify Plus](https://img.shields.io/badge/Shopify_Plus-0D1117?style=for-the-badge&logo=shopify&logoColor=96BF48)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-0D1117?style=for-the-badge&logo=shopify&logoColor=00D9FF)
+![Liquid](https://img.shields.io/badge/Liquid-0D1117?style=for-the-badge&logo=shopify&logoColor=7AB55C)
+![Claude API](https://img.shields.io/badge/Claude_API-0D1117?style=for-the-badge&logo=anthropic&logoColor=FF6B9D)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00D9FF)
 
 </div>
 
 <br/>
 
-<img src="./assets/readme/h-exp.webp" alt="Experience" width="100%"/>
+---
+
+## Experience
 
 <table width="100%">
   <tr>
     <td width="160" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/2020 -- Present-7ee8fa?style=flat-square&labelColor=13284d&color=7ee8fa"/>
+      <img src="https://img.shields.io/badge/2020 -- Present-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF"/>
       <br/><br/>
       <sub>Demetio</sub><br/>
       <sub>Hanoi, Vietnam</sub>
@@ -96,10 +116,11 @@ package with real downloads, and a growing arcade of browser games.
       &nbsp;&nbsp;▸ Technical Lead for teams of <strong>4-8 engineers</strong>: planning, code review, hiring, mentoring interns to junior
     </td>
   </tr>
+  <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="160" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/2018 -- 2020-ff9ec4?style=flat-square&labelColor=13284d&color=ff9ec4"/>
+      <img src="https://img.shields.io/badge/2018 -- 2020-FF6B9D?style=flat-square&labelColor=0D1117&color=FF6B9D"/>
       <br/><br/>
       <sub>NAL Vietnam</sub><br/>
       <sub>Hanoi, Vietnam</sub>
@@ -115,18 +136,23 @@ package with real downloads, and a growing arcade of browser games.
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-Anthropic%20·%202026-13284d?style=for-the-badge&logo=anthropic&logoColor=ff9ec4&labelColor=13284d&color=1d3a6b"/>
-  <img src="https://img.shields.io/badge/Shopify%20Development%20Fundamentals-Verified%20skill-13284d?style=for-the-badge&logo=shopify&logoColor=96BF48&labelColor=13284d&color=1d3a6b"/>
-</p>
-
 <br/>
 
-<img src="./assets/readme/h-stats.webp" alt="GitHub stats" width="100%"/>
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ntd4996&bg_color=13284d&color=7ee8fa&line=ff9ec4&point=ffffff&area_color=7ee8fa&area=true&hide_border=true&radius=16"/>
+  <img height="180" src="https://gh-readme-stats.vercel.app/api?username=ntd4996&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=E2E8F0"/>
+  <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ntd4996&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=E2E8F0"/>
 </div>
+
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ntd4996&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=ffffff&area_color=00D9FF&area=true&hide_border=true"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img width="95%" src="./profile-3d-contrib/profile-night-view.svg"/>
@@ -134,9 +160,52 @@ package with real downloads, and a growing arcade of browser games.
 
 <br/>
 
-<a href="https://www.datnt.dev/"><img src="./assets/readme/footer.webp" alt="Thanks for stopping by" width="100%"/></a>
+---
+
+## Certifications
 
 <div align="center">
-  <a href="https://ko-fi.com/ntd4996"><img src="https://img.shields.io/badge/Ko--fi-13284d?style=for-the-badge&logo=ko-fi&logoColor=ff9ec4"/></a>
-  <a href="https://www.buymeacoffee.com/ntd4996"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-13284d?style=for-the-badge&logo=buymeacoffee&logoColor=7ee8fa"/></a>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <br/><br/>
+      <strong>Claude Code in Action</strong>
+      <br/>
+      <sub>Anthropic · Feb 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
+      <br/><br/>
+      <strong>Shopify Development Fundamentals</strong>
+      <br/>
+      <sub>Shopify · Verified Skill</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+  <a href="https://www.datnt.dev/">
+    <img src="https://img.shields.io/badge/%E2%86%92%20View%20Full%20Portfolio-datnt.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=0D1117"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://ko-fi.com/ntd4996">
+    <img src="https://img.shields.io/badge/Ko--fi-FF6B9D?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/ntd4996">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00D9FF?style=for-the-badge&logo=buymeacoffee&logoColor=0D1117"/>
+  </a>
+</div>
+
+<br/>
