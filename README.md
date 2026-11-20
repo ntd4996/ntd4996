@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B9D&height=220&section=header&text=Nguyen%20Thanh%20Dat&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Node.js%20%C2%B7%20React%20%C2%B7%20Shopify%20%C2%B7%20Apps%20%26%20Games&descAlignY=58&descSize=17&descColor=E2E8F0"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=6%2B+years+building+for+the+web+and+the+desktop;Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;Shopify+Plus+and+headless+commerce;Native+macOS+apps+in+Swift+%C2%B7+32+browser+games" />
+  <img src="./assets/banner.webp" alt="Nguyen Thanh Dat, full-stack engineer making apps and games after dark" width="100%"/>
 </div>
 
 <br/>
@@ -215,7 +209,3 @@ agents, an npm package, and a growing arcade of browser games.
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:00D9FF&height=120&section=footer"/>
-</div>
