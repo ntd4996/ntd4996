@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B9D&height=220&section=header&text=Nguyen%20Thanh%20Dat&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20Shopify%20%C2%B7%20AI&descAlignY=58&descSize=17&descColor=E2E8F0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B9D&height=220&section=header&text=Nguyen%20Thanh%20Dat&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Node.js%20%C2%B7%20React%20%C2%B7%20Shopify%20%C2%B7%20Apps%20%26%20Games&descAlignY=58&descSize=17&descColor=E2E8F0"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=6%2B+years+of+Web+%C2%B7+Mobile+%C2%B7+Game+%C2%B7+AI+%F0%9F%9A%80;React+%2F+Next.js+%2F+Node.js+%2F+TypeScript;Shopify+Plus+%26+Headless+Commerce+Expert;AI-assisted+workflows+with+Claude+%26+OpenAI;50%2B+projects+%C2%B7+30%2B+clients+%C2%B7+10%2B+apps+%26+games" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=6%2B+years+building+for+the+web+and+the+desktop;Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;Shopify+Plus+and+headless+commerce;Native+macOS+apps+in+Swift+%C2%B7+32+browser+games" />
 </div>
 
 <br/>
@@ -28,20 +28,22 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-> **Senior Fullstack Developer & Shopify Expert** at [Demetio](https://www.datnt.dev/) · Hanoi, Vietnam 🇻🇳
->
-> 6+ years building web apps, mobile apps, games, and AI-integrated products from concept to deployment.
-> Specialized in Headless Shopify, React/Next.js, and AI automation for Japanese e-commerce clients.
+**Senior Full-Stack Engineer** based in Hanoi, Vietnam. 6+ years building web products end to end with Node.js,
+NestJS, React and Next.js, including Shopify Plus and headless commerce for Japanese clients. Technical Lead for
+teams of 4-8 engineers.
+
+Outside client work I ship my own products: native macOS apps in Swift, an open-source desktop pet for AI coding
+agents, an npm package, and a growing arcade of browser games.
 
 <br/>
 
 <div align="center">
 
-| 🚀 Projects | 🤝 Clients | 📱 Apps & Games | ⏳ Experience |
-|:-----------:|:----------:|:---------------:|:-------------:|
-| **50+** | **30+** | **10+** | **6+ years** |
+| AgentPet on GitHub | Browser games | npm downloads / month | Experience |
+|:------------------:|:-------------:|:---------------------:|:----------:|
+| **400+ stars** | **32 live** | **780+** (embed-react) | **6+ years** |
 
 </div>
 
@@ -49,7 +51,21 @@
 
 ---
 
-## ⚡ Tech Stack
+## Featured Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**AgentPet**](https://github.com/ntd4996/agentpet) | A desktop pet that shows what your AI coding agents (Claude Code, Codex, Cursor, Gemini...) are doing and levels up on the tokens they use. macOS, Windows and Linux, with a community gallery and leaderboard. | Swift · SwiftUI · Tauri · Rust · Astro |
+| [**TNW Arcade**](https://thenightwatcher.online/games/) | 32 free browser games I designed and built: idle, tower defense, action and tycoon, in pixel art and 3D. | TypeScript · Three.js · PixiJS · Cloudflare |
+| [**Porthole**](https://github.com/ntd4996/Porthole) | macOS menu bar app that lists running dev ports, the project behind each one, and the tunnels pointing at them. | Swift · SwiftUI · Homebrew |
+| [**PlugTalk**](https://plugtalk.thenightwatcher.online) | Native macOS app for USB devices and external displays. Notarized, auto-updating, with payments live. | Swift · SwiftUI · IOKit |
+| [**embed-react**](https://github.com/ntd4996/resize-iframe) | React iframe that resizes to its content, with social embeds and a hardened Next.js proxy. Published on npm. | React · TypeScript · Next.js |
+
+<br/>
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -61,13 +77,13 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postgres,mongodb,redis,prisma&theme=dark&perline=8"/>
 
-**Mobile & Game**
+**Desktop, Mobile & Games**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,unity,cs,blender&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=swift,tauri,rust,react,threejs,blender&theme=dark&perline=8"/>
 
 **DevOps & Design**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions,git,github,figma,vscode&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,githubactions,git,figma,vscode&theme=dark&perline=8"/>
 
 **Shopify & AI**
 
@@ -84,7 +100,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table width="100%">
   <tr>
@@ -92,17 +108,18 @@
       <br/>
       <img src="https://img.shields.io/badge/2020 -- Present-00D9FF?style=flat-square&labelColor=0D1117&color=00D9FF"/>
       <br/><br/>
-      <sub>🏢 Demetio</sub><br/>
-      <sub>📍 Hanoi, Vietnam</sub>
+      <sub>Demetio</sub><br/>
+      <sub>Hanoi, Vietnam</sub>
     </td>
     <td valign="top">
       <br/>
-      <strong>Senior Fullstack Developer & Shopify Expert</strong>
+      <strong>Senior Full-Stack Developer · Technical Lead</strong>
       <br/><br/>
       &nbsp;&nbsp;▸ Built <strong>20+ Shopify Plus</strong> stores for Japanese clients: Liquid, checkout extensions, metafield-driven UX<br/>
       &nbsp;&nbsp;▸ Architected <strong>Headless Shopify</strong> storefronts with Hydrogen + Remix for performance-critical projects<br/>
       &nbsp;&nbsp;▸ Integrated <strong>Claude & OpenAI APIs</strong> into e-commerce flows, saving 10+ hrs/week per client<br/>
-      &nbsp;&nbsp;▸ Full-stack delivery: <strong>React, Next.js, Node.js, PostgreSQL</strong>, GitHub Actions CI/CD
+      &nbsp;&nbsp;▸ Full-stack delivery: <strong>NestJS, React, Next.js, PostgreSQL, Redis</strong>, GitHub Actions CI/CD<br/>
+      &nbsp;&nbsp;▸ Technical Lead for teams of <strong>4-8 engineers</strong>: planning, code review, hiring, mentoring interns to junior
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -111,8 +128,8 @@
       <br/>
       <img src="https://img.shields.io/badge/2018 -- 2020-FF6B9D?style=flat-square&labelColor=0D1117&color=FF6B9D"/>
       <br/><br/>
-      <sub>🏢 NAL Vietnam</sub><br/>
-      <sub>📍 Hanoi, Vietnam</sub>
+      <sub>NAL Vietnam</sub><br/>
+      <sub>Hanoi, Vietnam</sub>
     </td>
     <td valign="top">
       <br/>
@@ -129,7 +146,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://gh-readme-stats.vercel.app/api?username=ntd4996&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=E2E8F0"/>
@@ -151,7 +168,7 @@
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 <div align="center">
 
